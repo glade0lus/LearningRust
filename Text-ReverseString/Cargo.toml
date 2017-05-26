@@ -1,0 +1,6 @@
+[package]
+name = "text_reverse_string"
+version = "0.1.0"
+authors = ["glade0lus <kostya@derpy.ru>"]
+
+[dependencies]
